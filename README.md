@@ -1,5 +1,6 @@
 Prototype Website
 =================
 
-Built by Catherine and Cipi 
+Built by Catherine and Cipi
+The Best Prototype Website Ever
   
